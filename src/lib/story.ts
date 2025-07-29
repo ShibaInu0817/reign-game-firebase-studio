@@ -4,7 +4,7 @@ export const story: Story = [
   {
     id: 1,
     text: "You find a can of beans. The label is peeling, but it seems edible.",
-    image: "/images/story/beans.png",
+    image: "/reign-game-firebase-studio/images/story/beans.png",
     imageHint: "canned food",
     choices: [
       {
@@ -24,7 +24,7 @@ export const story: Story = [
   {
     id: 2,
     text: "A rickety bridge stands between you and the other side of a chasm. It's the only way across.",
-    image: "/images/story/bridge.webp",
+    image: "/reign-game-firebase-studio/images/story/bridge.webp",
     imageHint: "rickety bridge",
     choices: [
       {
