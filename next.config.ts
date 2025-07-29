@@ -4,8 +4,8 @@ const nextConfig: NextConfig = {
   /* config options here */
   output: "export",
   trailingSlash: true,
-  // basePath: "/reign-game-firebase-studio",
-  // assetPrefix: "/reign-game-firebase-studio/",
+  basePath: "/reign-game-firebase-studio",
+  assetPrefix: "/reign-game-firebase-studio/",
   typescript: {
     ignoreBuildErrors: true,
   },
